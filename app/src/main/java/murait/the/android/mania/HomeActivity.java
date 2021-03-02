@@ -1,4 +1,4 @@
-package murait.the.android.mania;
+package com.user.dizzi;
 
 import android.app.ProgressDialog;
 import android.content.ActivityNotFoundException;
@@ -38,7 +38,7 @@ public class HomeActivity extends AppCompatActivity
     private PrefManager prefManager;
     private Context mContext;
     private WebView webView;
-    private String url = "https://www.theandroid-mania.com/";
+    private String url = "https://dizzi.in/";
     private View llError;
     private String currentUrl = "";
     private AdView mAdView;
