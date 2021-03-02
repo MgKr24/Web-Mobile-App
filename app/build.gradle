@@ -28,7 +28,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "murait.the.android.mania"
+        applicationId "com.user.dizzi"
         minSdkVersion 16
         targetSdkVersion 29
         versionCode 1
@@ -36,7 +36,7 @@ android {
         testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
         multiDexEnabled true
         manifestPlaceholders = [
-                onesignal_app_id               : '8543624a-9d00-44ee-b9ca-a1d87bb45b56',
+                onesignal_app_id               : 'NGFmYzEwZmQtOTE4YS00YWMzLTlhNDctMmFkNzJlZDhjMjZh',
                 onesignal_google_project_number: 'REMOTE'
         ]
     }
